@@ -1,6 +1,3 @@
-#Full Name:gdor80
-#E-Mail: <gdor80@gmail.com>
-#Time: Tue Jan 24 22:42:53 2017 +0200
 """Generic utility functions
 """
 # from __future__ import print_function

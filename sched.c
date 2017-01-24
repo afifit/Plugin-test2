@@ -1,6 +1,3 @@
-//Full Name:gdor80
-//E-Mail: <gdor80@gmail.com>
-//Time: Tue Jan 24 22:38:28 2017 +0200
 /*
  *  kernel/sched.c
  *

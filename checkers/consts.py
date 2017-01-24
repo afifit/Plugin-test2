@@ -1,6 +1,3 @@
-#Full Name:afifit
-#E-Mail: <dorafifitcohen@gmail.com>
-#Time: Tue Jan 24 22:32:55 2017 +0200
 
 #==============================================================================
 # Game pieces
