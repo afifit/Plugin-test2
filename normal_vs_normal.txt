@@ -1,0 +1,20 @@
+Game 1
+('red', red improved)
+Game 2
+('red', red improved)
+Game 3
+('black', black simple)
+Game 4
+tie
+Game 5
+('black', black simple)
+Game 6
+('red', red improved)
+Game 7
+('red', red improved)
+Game 8
+('black', black simple)
+Game 9
+('black', black simple)
+Game 10
+('black', black simple)

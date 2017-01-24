@@ -1,0 +1,20 @@
+Game 1
+tie
+Game 2
+('black', black simple)
+Game 3
+('black', black simple)
+Game 4
+('black', black simple)
+Game 5
+('black', black simple)
+Game 6
+('black', black simple)
+Game 7
+('black', black simple)
+Game 8
+('black', black simple)
+Game 9
+tie
+Game 10
+('black', black simple)

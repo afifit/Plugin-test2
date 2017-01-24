@@ -1,0 +1,19 @@
+Game 1
+tie
+Game 2
+tie
+Game 3
+tie
+Game 4
+tie
+Game 5
+tie
+Game 6
+('black', black simple)
+Game 7
+('black', black simple)
+Game 8
+tie
+Game 9
+tie
+Game 10

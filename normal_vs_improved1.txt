@@ -1,0 +1,19 @@
+Game 1
+tie
+Game 2
+('black', black simple)
+Game 3
+tie
+Game 4
+tie
+Game 5
+tie
+Game 6
+tie
+Game 7
+tie
+Game 8
+tie
+Game 9
+('red', red improved)
+
