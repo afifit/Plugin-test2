@@ -9,7 +9,6 @@ from queue import Queue
 import time
 import copy
 
-#Censor will be mad!
 INFINITY = float(6000)
 
 
